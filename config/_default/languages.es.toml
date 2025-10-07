@@ -1,0 +1,19 @@
+languageCode = "es"
+languageName = "Spanish"
+weight = 1
+#title = "BrillaVerde"
+contentDir = "content"
+
+[params]
+displayName = "es"
+isoCode = "es"
+rtl = false
+description = "La Comunidad Energética Brillaverde es una asociación sin ánimo de lucro, que trabaja por un modelo energético sostenible y democrático, promoviendo el autoconsumo comunitario de energeías renovables."
+dateFormat = "2 January 2006"
+logo = "logo.png"
+
+  [params.author]
+  name = "BrillaVerde"
+  image = "img/avatar.png"
+  headline = "Comunidad Energética de Villaverde"
+  bio = "A little bit about you"

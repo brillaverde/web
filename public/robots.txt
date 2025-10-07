@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brillaverde.github.io/sitemap.xml

@@ -1,0 +1,83 @@
+colorScheme = "avocado"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+enableSearch = true
+enableCodeCopy = true
+mainSections = [ "posts" ]
+firebase = { }
+fathomAnalytics = { }
+verification = { }
+defaultBackgroundImage = "fondo.png"
+defaultFeaturedImage = "paneles-solares.jpg"
+highlightCurrentMenuArea = ""
+smartTOC = ""
+smartTOCHideUnfocusedChildren = ""
+
+[header]
+layout = "fixed-fill"
+
+[footer]
+showCopyright = false
+showThemeAttribution = false
+showAppearanceSwitcher = true
+showScrollToTop = true
+showMenu = true
+
+[homepage]
+layout = "background"
+showRecent = true
+showRecentItems = "12"
+showMoreLink = true
+showMoreLinkDest = "posts"
+cardView = true
+cardViewScreenWidth = true
+layoutBackgroundBlur = true
+homepageImage = "paneles-solares.jpg"
+
+[article]
+showDate = true
+showDateUpdated = false
+showAuthor = false
+showHero = true
+heroStyle = "basic"
+showBreadcrumbs = false
+showDraftLabel = true
+showEdit = false
+editAppendPath = true
+seriesOpened = false
+showHeadingAnchors = true
+showPagination = true
+invertPagination = false
+showReadingTime = true
+showTableOfContents = true
+showTaxonomies = true
+showAuthorsBadges = false
+showWordCount = true
+showSummary = true
+sharingLinks = [
+  "linkedin",
+  "whatsapp",
+  "pinterest",
+  "reddit",
+  "facebook",
+  "email"
+]
+showZenMode = true
+
+[list]
+showBreadcrumbs = false
+showSummary = true
+showTableOfContents = false
+showCards = false
+groupByYear = true
+cardView = false
+cardViewScreenWidth = false
+constrainItemsWidth = true
+heroStyle = "background"
+showHero = true
+
+[sitemap]
+excludedKinds = [ ]
+
+[taxonomy]
+showTermCount = true
