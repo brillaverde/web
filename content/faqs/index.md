@@ -30,9 +30,9 @@ permite a un grupo de personas de una comunidad energética, compartir la energ�
 
 La titularidad de la instalación debe ser de la comunidad energética.
 
-## ¿Cuál es la instalación de generación renovable de la comunidad energética?
+## ¿Dónde estará la instalación de generación renovable de la comunidad energética?
 
-La instalación de generación de energía se situará en el tejado del CEIP El Greco, en la calle Estefanita 7 del barrio de Butarque en Villaverde, y estará formada por paneles solares fotovoltaicos. El ayuntamiento de Madrid, en concurso público, va a ceder la cubierta del colegio a la comunidad energética durante un periodo de 25 años.
+La instalación de generación de energía se situará en el tejado del algún edificio municipal del distrito y estará formada por paneles solares fotovoltaicos. Se ha solicitado al Ayuntamiento de Madrid, la cesión de la cubierta de algún edificio municipal a comunidad energética durante un periodo de 25 años.
 
 A medida que crezca la comunidad energética, se podrán crear nuevas instalaciones en el barrio.
 
@@ -44,7 +44,7 @@ La instalación tendrá una potencia de 100 kW, con una producción anual estima
 
 El reparto de la energía generada será de la siguiente manera:
 
-- Colegio El Greco: 10%.
+- Colegio: 10%.
 - Familias en situación de vulnerabilidad: 20%.
 - Personas socias de la comunidad energética: 70%.
 
