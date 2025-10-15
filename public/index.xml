@@ -36,10 +36,10 @@
 &lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a
-  href=&#34;http://localhost:1313/static/docs/estatutos-brillaverde.pdf&#34;&gt;Estatutos de la Comunidad Energética Brillaverde&lt;/a&gt;&lt;/li&gt;
+  href=&#34;http://localhost:1313/docs/estatutos-brillaverde.pdf&#34;&gt;Estatutos de la Comunidad Energética Brillaverde&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;[Reglamento de Régimen Interno]&lt;/li&gt;
 &lt;li&gt;&lt;a
-  href=&#34;http://localhost:1313/static/docs/politica-privacidad-brillaverde.pdf&#34;&gt;Política de privacidad&lt;/a&gt;&lt;/li&gt;
+  href=&#34;http://localhost:1313/docs/politica-privacidad-brillaverde.pdf&#34;&gt;Política de privacidad&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;Leyes y normativas 
@@ -116,7 +116,7 @@
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/asociate/</guid>
-      <description>&lt;p&gt;Para formar parte de la Comunidad Energética Brillaverde, rellena el siguiente formulario de inscripción.&lt;/p&gt;
+      <description>&lt;p&gt;Para formar parte de la Comunidad Energética BrillaVerde y estar al tanto de cómo vamos avanzando en nuestros objetivos, rellena el siguiente formulario de inscripción.&lt;/p&gt;
 &lt;iframe src=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdHX6HA26nCDUOgUjKY_jmTBkHYBi4pPK9mrhyu2N8CI9XS4g/viewform?embedded=true&#34; width=&#34;640&#34; height=&#34;2496&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;Cargando…&lt;/iframe&gt;</description>
       
     </item>

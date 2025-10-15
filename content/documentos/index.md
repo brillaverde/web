@@ -11,9 +11,9 @@ draft: false
 
 ## Estatutos y documentos de funcionamiento interno
 
-- [Estatutos de la Comunidad Energética Brillaverde](/static/docs/estatutos-brillaverde.pdf)
+- [Estatutos de la Comunidad Energética Brillaverde](/docs/estatutos-brillaverde.pdf)
 - [Reglamento de Régimen Interno]
-- [Política de privacidad](/static/docs/politica-privacidad-brillaverde.pdf)
+- [Política de privacidad](/docs/politica-privacidad-brillaverde.pdf)
 
 ## Leyes y normativas
 
