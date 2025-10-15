@@ -5,7 +5,7 @@ summaryLength = 30
 buildDrafts = false
 buildFuture = false
 enableEmoji = true
-baseURL = "https://brillaverde.github.io"
+baseURL = "https://brillaverde.org"
 googleAnalytics = ""
 
 [pagination]

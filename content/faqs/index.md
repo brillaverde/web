@@ -32,7 +32,7 @@ La titularidad de la instalación debe ser de la comunidad energética.
 
 ## ¿Dónde estará la instalación de generación renovable de la comunidad energética?
 
-La instalación de generación de energía se situará en el tejado del algún edificio municipal del distrito y estará formada por paneles solares fotovoltaicos. Se ha solicitado al Ayuntamiento de Madrid, la cesión de la cubierta de algún edificio municipal a comunidad energética durante un periodo de 25 años.
+La instalación de generación de energía se situará en el tejado del algún edificio municipal del distrito y estará formada por paneles solares fotovoltaicos. Somos conocedoras de que el Ayuntamiento de Madrid está preparando la licitación de la cesión de la cubierta de algún edificio municipal durante un periodo de 25 años y estamos trabajando para poder acceder al concurso.
 
 A medida que crezca la comunidad energética, se podrán crear nuevas instalaciones en el barrio.
 
@@ -44,7 +44,7 @@ La instalación tendrá una potencia de 100 kW, con una producción anual estima
 
 El reparto de la energía generada será de la siguiente manera:
 
-- Colegio: 10%.
+- Junta Municipal: 10%.
 - Familias en situación de vulnerabilidad: 20%.
 - Personas socias de la comunidad energética: 70%.
 
@@ -81,9 +81,9 @@ A este precio hay que añadir el coste anual del mantenimiento de la instalació
 
 El precio podría ser menor si se consigue financiación a través de subvenciones o ayudas públicas.
 
-## ¿Es necesario comprar un título de consumo energético para ser socio de la comunidad energética?
+## ¿Es necesario comprar un título de consumo energético para asociarte a la comunidad energética?
 
-No, no es necesario comprar un título de consumo energético para ser socio de la comunidad energética. Cualquier persona puede hacerse socia de la comunidad energética Brillaverde, independientemente de si compra un título o no. Solo es necesario comprar un título si se quiere participar en el reparto de la energía generada por la instalación.
+No, no es necesario comprar un título de consumo energético para asociarte a la comunidad energética. Cualquier persona puede hacerse socia de la comunidad energética BrillaVerde, independientemente de si compra un título o no. Solo es necesario comprar un título si se quiere participar en el reparto de la energía generada por la instalación.
 
 ## ¿Qué elementos se instalan en una planta fotovoltaica?
 

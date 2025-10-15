@@ -17,7 +17,7 @@ Nuestra asociación también pretende generar tejido social en el barrio y fomen
 
 Creemos que la _transición ecosocial_ tiene que ser _justa_ para garantizar el derecho de acceso a la energía a todas las familias, especialmente aquellas en situación de vulnerabilidad.
 
-Actualmente estamos en proceso de conseguir, mediante licitación del Ayuntamiento de Madrid, la cesión de la cubierta de algún colegio del distrito para la instalación de una planta fotovoltaica. 
+Actualmente estamos trabajando para podernos presentar a una licitación del Ayuntamiento de Madrid, para la cesión de la cubierta de algún colegio del distrito y la instalación en ella de una planta fotovoltaica.
 
 Si quieres saber más sobre este bonito proyecto visita la sección de [**Preguntas Frecuentes**](/faqs) y síguenos en nuestro [**blog**](/posts) y redes sociales.
 
