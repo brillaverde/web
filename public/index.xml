@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-    <lastBuildDate>Fri, 19 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Participamos en la carrera popular de Butarque</title>
+      <link>http://localhost:1313/posts/carrera-butarque-2025/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/carrera-butarque-2025/</guid>
+      <description>El pasado 19 de octubre colaboramos en la carrera popular de Butarque, un evento deportivo y solidario que reunió a cientos de corredores y corredoras de todas las edades.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/carrera-butarque-2025/featured.jpg" />
+    </item>
     
     <item>
       <title>Próximo encuentro de la Comunidad Energética Brillaverde</title>
