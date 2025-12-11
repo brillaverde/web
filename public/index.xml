@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-    <lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Organizamos un mercadillo de trueque en Butarque</title>
+      <link>http://localhost:1313/posts/mercadillo-trueque/</link>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/mercadillo-trueque/</guid>
+      <description>El próximo domingo 14 de diciembre realizamos un mercadillo de trueque junto con la asociación Ludoverde.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/mercadillo-trueque/featured.jpg" />
+    </item>
     
     <item>
       <title>Participamos en la carrera popular de Butarque</title>
