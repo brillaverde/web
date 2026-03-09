@@ -14,6 +14,6 @@ Presentamos el estudio económico preliminar para la instalación de un sistema 
 Este estudio se ha realizado en el marco del proyecto **Urbanew**, financiado por la Comisión Europea. Los datos son de carácter provisional y condicionados a los cambios del precio de la electricidad, y las decisiones que vaya tomando vecinos, vecinas y PYMES que están participando en diseñar e impulsar la Comunidad Energética.
 
 <object data="/docs/estudio-economico-preliminar-brillaverde.pdf#view=FitH" type="application/pdf" width="100%" height="800">
-  <p>Your browser can’t display PDFs inline.
-  <a href="/docs/estudio-economico-preliminar-brillaverde.pdf">Download the PDF</a>.</p>
+  <p>Tu navegador no puede mostrar documentos PDF en línea..
+  <a href="/docs/estudio-economico-preliminar-brillaverde.pdf">Descarga el documento PDF.</a>.</p>
 </object>

@@ -15,6 +15,10 @@ Desde Brillaverde queremos fomentar un consumo decreciente entre nuestras vecina
 
 ![Mercadillo de trueque](cartel-mercadillo-trueque.jpg)
 
+### Galería de fotos del mercadillo de trueque
+
+{{< carousel images="img/fotos/*" interval="2500" >}}
+
 ## Normas del Mercadillo de Trueque  
 
 Este mercadillo tiene como finalidad fomentar la reutilización y el consumo responsable mediante el trueque. Habrá dos zonas bien diferenciadas: trueque de ropa, juguetes y libros y mercadillo de juegos de mesa.
