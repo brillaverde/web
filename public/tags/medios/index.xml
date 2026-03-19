@@ -7,12 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/medios/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/medios/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>BrillaVerde en la radio comunitaria de Villaverde</title>
+      <link>http://localhost:1313/posts/brillaverde-onda-merlin/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/brillaverde-onda-merlin/</guid>
+      <description>El pasado lunes 16 de marzo participamos en le programa de radio de las lideresas de Villaverde en Onda Merlín Comunitaria.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/brillaverde-onda-merlin/featured.jpg" />
+    </item>
     
     <item>
       <title>BrillaVerde en Onda Cero</title>
       <link>http://localhost:1313/posts/brillaverde-onda-cero/</link>
-      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/brillaverde-onda-cero/</guid>
       <description>El programa Mesa de redacción de Onda Cero entrevista a personas de varias comunidades entergéticas, entre ellas Brillaverde.</description>
