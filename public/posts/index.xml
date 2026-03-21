@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-    <lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Próximo encuentro de la Comunidad Energética Brillaverde</title>
+      <link>http://localhost:1313/posts/encuentros/encuentro-2026-03-26/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/encuentros/encuentro-2026-03-26/</guid>
+      <description>Os invitamos al próximo encuentro de la Comunidad Energética Brillaverde el &lt;strong&gt;jueves 26 de marzo a las 18:00 en el local de AVIB&lt;/strong&gt;.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/encuentros/encuentro-2026-03-26/featured.jpg" />
+    </item>
     
     <item>
       <title>Licitación de la cubierta del colegio El Greco</title>
