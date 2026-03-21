@@ -22,7 +22,16 @@ Si estás interesada/o en formar parte de esta comunidad y empezar a producir tu
 
 Aquí tenéis el texto íntegro de la licitación publicada en el Boletín de la Comunidad de Madrid.
 
-<object data="recorte-periodico-villaverde.pdf#view=FitH" type="application/pdf" width="100%" height="800">
+<object data="doc/licitacion-el-greco-bocm.pdf#view=FitH" type="application/pdf" width="100%" height="800">
   <p>Tu navegador no puede mostrar documentos PDF en línea.
   <a href="doc/licitacion-el-greco-bocm.pdf">Descarga el documento PDF</a>.</p>
 </object>
+
+Y este es el pliego de la licitación.
+
+<object data="doc/pliego-licitacion-cubierta-greco.pdf#view=FitH" type="application/pdf" width="100%" height="800">
+  <p>Tu navegador no puede mostrar documentos PDF en línea.
+  <a href="doc/pliego-licitacion-cubierta-greco.pdf">Descarga el documento PDF</a>.</p>
+</object>
+
+[ACCESO AL EXPEDIENTE DE LA LICITACIÓN EN LA PLATAFORMA DE CONTRATACIÓN DEL SECTOR PÚBLICO](https://contrataciondelestado.es/wps/portal/plataforma/buscadores/detalle/!ut/p/z1/hY9LD4IwEIR_kem2QJEj0FKKICAPpRdCYmJIeBhj-P0Ww1XZ22S_mZ1FCt2Qmrqlf3Tvfp66QetG0dbkqe8HIYFjYTAgMasqGq6SoBpd9xCl1_BjXNB-9UUswzfrqM5oIQWADAMWV9gCQegG_MlodAe7dWueu9IxIPUuukOUJWUmCAagqJrm16j_Kdas_s6XATXYsQFTE1t48wsBEnsCTHw6M6CZzSOel-uJPf9zDBx5aMY2Kd0PXA4yoQ!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
