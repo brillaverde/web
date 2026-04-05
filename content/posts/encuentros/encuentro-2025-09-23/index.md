@@ -2,7 +2,7 @@
 title: "Próximo encuentro de la Comunidad Energética Brillaverde"
 summary: "Os invitamos al próximo encuentro de la Comunidad Energética Brillaverde el **martes 23 de septiembre a las 18:00 en el local de Ludoverde**. "
 categories: ["Encuentro"]
-tags: []
+tags: [Asamblea]
 #externalUrl: ""
 #showSummary: true
 date: 2025-09-19

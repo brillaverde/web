@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-    <lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fiesta de la primavera en el Huerto de Butarque</title>
+      <link>http://localhost:1313/posts/fiesta-primavera/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/fiesta-primavera/</guid>
+      <description>El próximo sábado 11 de abril celebraremos que la primavera ya está aquí y que nuestro proyecto de planta solar está cada vez más cerca.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/fiesta-primavera/featured.png" />
+    </item>
     
     <item>
       <title>Próximo encuentro de la Comunidad Energética Brillaverde</title>

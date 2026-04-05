@@ -2,7 +2,7 @@
 title: "Próximo encuentro de la Comunidad Energética Brillaverde"
 summary: "Os invitamos al próximo encuentro de la Comunidad Energética Brillaverde el **jueves 8 de mayo a las 17:00 en El Greco**. "
 categories: ["Encuentro"]
-tags: []
+tags: [Asamblea]
 #externalUrl: ""
 #showSummary: true
 date: 2025-05-05
