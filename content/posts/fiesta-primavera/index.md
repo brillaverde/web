@@ -18,3 +18,10 @@ Aprovecharemos también para presentar nuestra comunidad energética Brillaverde
 Acabaremos el acto con un pequeño aperitivo compartido, así que no te olvides de traer algo para picar. La bebida la pondremos nosotras.
 
 ![Cartel fiesta primavera huerto Butarque](img/cartel-fiesta-primavera-2026.png)
+
+Aquí os dejamos con unas cuantas fotos de esta bonita jornada.
+
+
+{{< carousel images="img/fotos/*" >}}
+
+

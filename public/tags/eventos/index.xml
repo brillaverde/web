@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eventos on </title>
-    <link>http://localhost:1313/tags/eventos/</link>
+    <link>http://localhost:36279/tags/eventos/</link>
     <description>Recent content in Eventos on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-    <lastBuildDate>Sun, 05 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/eventos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:36279/tags/eventos/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Fiesta de la primavera en el Huerto de Butarque</title>
-      <link>http://localhost:1313/posts/fiesta-primavera/</link>
+      <link>http://localhost:36279/posts/fiesta-primavera/</link>
       <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/fiesta-primavera/</guid>
+      <guid>http://localhost:36279/posts/fiesta-primavera/</guid>
       <description>El próximo sábado 11 de abril celebraremos que la primavera ya está aquí y que nuestro proyecto de planta solar está cada vez más cerca.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/fiesta-primavera/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36279/posts/fiesta-primavera/featured.png" />
     </item>
     
     <item>
       <title>Te invitamos a un vermut en la Trueca</title>
-      <link>http://localhost:1313/posts/vermut-trueca/</link>
+      <link>http://localhost:36279/posts/vermut-trueca/</link>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/vermut-trueca/</guid>
+      <guid>http://localhost:36279/posts/vermut-trueca/</guid>
       <description>El próximo domingo 22 de marzo a las 12 te animamos disfrutar de un vermut en la Trueca y celebrar con Brillaverde que ya somos una comunidad energética reconocida por el ayuntamiento.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/vermut-trueca/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36279/posts/vermut-trueca/featured.jpg" />
     </item>
     
   </channel>
