@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Educación on </title>
+    <link>http://localhost:1313/tags/educaci%C3%B3n/</link>
+    <description>Recent content in Educación on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    
+    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/educaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Taller de plantación de semillas con el ciclo infantil del colegio El Greco</title>
+      <link>http://localhost:1313/posts/taller-plantacion-el-greco/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/taller-plantacion-el-greco/</guid>
+      <description>Casi 100 niños y niñas de infantil del colegio El Greco aprendieron a plantar sus propias semillas y descubrieron cómo funciona un huerto urbano.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/taller-plantacion-el-greco/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

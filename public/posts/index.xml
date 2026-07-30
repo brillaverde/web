@@ -2,181 +2,191 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>http://localhost:36279/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-    <lastBuildDate>Sun, 05 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:36279/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Taller de plantación de semillas con el ciclo infantil del colegio El Greco</title>
+      <link>http://localhost:1313/posts/taller-plantacion-el-greco/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/taller-plantacion-el-greco/</guid>
+      <description>Casi 100 niños y niñas de infantil del colegio El Greco aprendieron a plantar sus propias semillas y descubrieron cómo funciona un huerto urbano.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/taller-plantacion-el-greco/featured.jpg" />
+    </item>
     
     <item>
       <title>Fiesta de la primavera en el Huerto de Butarque</title>
-      <link>http://localhost:36279/posts/fiesta-primavera/</link>
+      <link>http://localhost:1313/posts/fiesta-primavera/</link>
       <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:36279/posts/fiesta-primavera/</guid>
+      <guid>http://localhost:1313/posts/fiesta-primavera/</guid>
       <description>El próximo sábado 11 de abril celebraremos que la primavera ya está aquí y que nuestro proyecto de planta solar está cada vez más cerca.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36279/posts/fiesta-primavera/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/fiesta-primavera/featured.png" />
     </item>
     
     <item>
       <title>Próximo encuentro de la Comunidad Energética Brillaverde</title>
-      <link>http://localhost:36279/posts/encuentros/encuentro-2026-03-26/</link>
+      <link>http://localhost:1313/posts/encuentros/encuentro-2026-03-26/</link>
       <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:36279/posts/encuentros/encuentro-2026-03-26/</guid>
+      <guid>http://localhost:1313/posts/encuentros/encuentro-2026-03-26/</guid>
       <description>Os invitamos al próximo encuentro de la Comunidad Energética Brillaverde el &lt;strong&gt;jueves 26 de marzo a las 18:00 en el local de AVIB&lt;/strong&gt;.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36279/posts/encuentros/encuentro-2026-03-26/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/encuentros/encuentro-2026-03-26/featured.jpg" />
     </item>
     
     <item>
       <title>Licitación de la cubierta del colegio El Greco</title>
-      <link>http://localhost:36279/posts/licitacion-cubierta-greco/</link>
+      <link>http://localhost:1313/posts/licitacion-cubierta-greco/</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:36279/posts/licitacion-cubierta-greco/</guid>
+      <guid>http://localhost:1313/posts/licitacion-cubierta-greco/</guid>
       <description>El ayuntamiento de Madrid ha sacado a concurso público la cesión de la cubierta del colegio El Greco para poner paneles solares y queremos presentarnos al concurso.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36279/posts/licitacion-cubierta-greco/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/licitacion-cubierta-greco/featured.png" />
     </item>
     
     <item>
       <title>Te invitamos a un vermut en la Trueca</title>
-      <link>http://localhost:36279/posts/vermut-trueca/</link>
+      <link>http://localhost:1313/posts/vermut-trueca/</link>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:36279/posts/vermut-trueca/</guid>
+      <guid>http://localhost:1313/posts/vermut-trueca/</guid>
       <description>El próximo domingo 22 de marzo a las 12 te animamos disfrutar de un vermut en la Trueca y celebrar con Brillaverde que ya somos una comunidad energética reconocida por el ayuntamiento.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36279/posts/vermut-trueca/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/vermut-trueca/featured.jpg" />
     </item>
     
     <item>
       <title>BrillaVerde en la radio comunitaria de Villaverde</title>
-      <link>http://localhost:36279/posts/brillaverde-onda-merlin/</link>
+      <link>http://localhost:1313/posts/brillaverde-onda-merlin/</link>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:36279/posts/brillaverde-onda-merlin/</guid>
+      <guid>http://localhost:1313/posts/brillaverde-onda-merlin/</guid>
       <description>El pasado lunes 16 de marzo participamos en le programa de radio de las lideresas de Villaverde en Onda Merlín Comunitaria.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36279/posts/brillaverde-onda-merlin/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/brillaverde-onda-merlin/featured.jpg" />
     </item>
     
     <item>
       <title>BrillaVerde en Onda Cero</title>
-      <link>http://localhost:36279/posts/brillaverde-onda-cero/</link>
+      <link>http://localhost:1313/posts/brillaverde-onda-cero/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:36279/posts/brillaverde-onda-cero/</guid>
+      <guid>http://localhost:1313/posts/brillaverde-onda-cero/</guid>
       <description>El programa Mesa de redacción de Onda Cero entrevista a personas de varias comunidades entergéticas, entre ellas Brillaverde.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36279/posts/brillaverde-onda-cero/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/brillaverde-onda-cero/featured.png" />
     </item>
     
     <item>
       <title>BrillaVerde: Una comunidad energética pionera en Villaverde</title>
-      <link>http://localhost:36279/posts/articulo-periodico-distrito/</link>
+      <link>http://localhost:1313/posts/articulo-periodico-distrito/</link>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:36279/posts/articulo-periodico-distrito/</guid>
+      <guid>http://localhost:1313/posts/articulo-periodico-distrito/</guid>
       <description>Artículo en el periódico del distrito de Villaverde.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36279/posts/articulo-periodico-distrito/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/articulo-periodico-distrito/featured.png" />
     </item>
     
     <item>
       <title>Organizamos un mercadillo de trueque en Butarque</title>
-      <link>http://localhost:36279/posts/mercadillo-trueque/</link>
+      <link>http://localhost:1313/posts/mercadillo-trueque/</link>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:36279/posts/mercadillo-trueque/</guid>
+      <guid>http://localhost:1313/posts/mercadillo-trueque/</guid>
       <description>El próximo domingo 14 de diciembre realizamos un mercadillo de trueque junto con la asociación Ludoverde.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36279/posts/mercadillo-trueque/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/mercadillo-trueque/featured.jpg" />
     </item>
     
     <item>
       <title>Participamos en la carrera popular de Butarque</title>
-      <link>http://localhost:36279/posts/carrera-butarque-2025/</link>
+      <link>http://localhost:1313/posts/carrera-butarque-2025/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:36279/posts/carrera-butarque-2025/</guid>
+      <guid>http://localhost:1313/posts/carrera-butarque-2025/</guid>
       <description>El pasado 19 de octubre colaboramos en la carrera popular de Butarque, un evento deportivo y solidario que reunió a cientos de corredores y corredoras de todas las edades.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36279/posts/carrera-butarque-2025/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/carrera-butarque-2025/featured.jpg" />
     </item>
     
     <item>
       <title>Próximo encuentro de la Comunidad Energética Brillaverde</title>
-      <link>http://localhost:36279/posts/encuentros/encuentro-2025-09-23/</link>
+      <link>http://localhost:1313/posts/encuentros/encuentro-2025-09-23/</link>
       <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:36279/posts/encuentros/encuentro-2025-09-23/</guid>
+      <guid>http://localhost:1313/posts/encuentros/encuentro-2025-09-23/</guid>
       <description>Os invitamos al próximo encuentro de la Comunidad Energética Brillaverde el &lt;strong&gt;martes 23 de septiembre a las 18:00 en el local de Ludoverde&lt;/strong&gt;.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36279/posts/encuentros/encuentro-2025-09-23/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/encuentros/encuentro-2025-09-23/featured.jpg" />
     </item>
     
     <item>
       <title>Participamos en las fiestas de Butarque</title>
-      <link>http://localhost:36279/posts/fiestas-butarque-2025/</link>
+      <link>http://localhost:1313/posts/fiestas-butarque-2025/</link>
       <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:36279/posts/fiestas-butarque-2025/</guid>
+      <guid>http://localhost:1313/posts/fiestas-butarque-2025/</guid>
       <description>El pasado 22 de junio realizamos un divertido taller sobre energías renovables y cómo construir una cocina solar.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36279/posts/fiestas-butarque-2025/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/fiestas-butarque-2025/featured.jpg" />
     </item>
     
     <item>
       <title>Aprobación de los Estatutos</title>
-      <link>http://localhost:36279/posts/aprobacion-estatutos/</link>
+      <link>http://localhost:1313/posts/aprobacion-estatutos/</link>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:36279/posts/aprobacion-estatutos/</guid>
+      <guid>http://localhost:1313/posts/aprobacion-estatutos/</guid>
       <description>La comunidad energética Brillaverde, aprueba sus estatutos, un paso fundamental para su constitución y funcionamiento.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36279/posts/aprobacion-estatutos/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/aprobacion-estatutos/featured.png" />
     </item>
     
     <item>
       <title>Ya tenemos logotipo</title>
-      <link>http://localhost:36279/posts/logotipo/</link>
+      <link>http://localhost:1313/posts/logotipo/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:36279/posts/logotipo/</guid>
+      <guid>http://localhost:1313/posts/logotipo/</guid>
       <description>Os presentamos el logotipo que hemos elegido para nuestra Comunidad Energética Brillaverde.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36279/posts/logotipo/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/logotipo/featured.jpg" />
     </item>
     
     <item>
       <title>Fiesta de la Energía en Villaverde</title>
-      <link>http://localhost:36279/posts/fiesta-energia/</link>
+      <link>http://localhost:1313/posts/fiesta-energia/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:36279/posts/fiesta-energia/</guid>
+      <guid>http://localhost:1313/posts/fiesta-energia/</guid>
       <description>Os invitamos a la primera Fiesta de la Energía de Villaverde el próximo viernes 23 de mayo a las 18:00 en el parque junto a El Greco.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36279/posts/fiesta-energia/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/fiesta-energia/featured.jpg" />
     </item>
     
     <item>
       <title>Próximo encuentro de la Comunidad Energética Brillaverde</title>
-      <link>http://localhost:36279/posts/encuentros/encuentro-2025-05-08/</link>
+      <link>http://localhost:1313/posts/encuentros/encuentro-2025-05-08/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:36279/posts/encuentros/encuentro-2025-05-08/</guid>
+      <guid>http://localhost:1313/posts/encuentros/encuentro-2025-05-08/</guid>
       <description>Os invitamos al próximo encuentro de la Comunidad Energética Brillaverde el &lt;strong&gt;jueves 8 de mayo a las 17:00 en El Greco&lt;/strong&gt;.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36279/posts/encuentros/encuentro-2025-05-08/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/encuentros/encuentro-2025-05-08/featured.jpg" />
     </item>
     
     <item>
       <title>Próximo encuentro de la Comunidad Energética Brillaverde</title>
-      <link>http://localhost:36279/posts/encuentros/encuentro-2025-04-03/</link>
+      <link>http://localhost:1313/posts/encuentros/encuentro-2025-04-03/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:36279/posts/encuentros/encuentro-2025-04-03/</guid>
+      <guid>http://localhost:1313/posts/encuentros/encuentro-2025-04-03/</guid>
       <description>Os invitamos al próximo encuentro de la Comunidad Energética Brillaverde el &lt;strong&gt;jueves 3 de abril a las 17:00 en El Greco&lt;/strong&gt;.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36279/posts/encuentros/encuentro-2025-04-03/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/encuentros/encuentro-2025-04-03/featured.jpg" />
     </item>
     
     <item>
       <title>Estudio Económico Preliminar</title>
-      <link>http://localhost:36279/posts/estudio-economico-preliminar/</link>
+      <link>http://localhost:1313/posts/estudio-economico-preliminar/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:36279/posts/estudio-economico-preliminar/</guid>
+      <guid>http://localhost:1313/posts/estudio-economico-preliminar/</guid>
       <description>Presentamos el estudio económico preliminar para la instalación de un sistema de autoconsumo colectivo en el colegio El Greco de Villaverde.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36279/posts/estudio-economico-preliminar/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/estudio-economico-preliminar/featured.png" />
     </item>
     
   </channel>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Estudio on </title>
-    <link>http://localhost:36279/tags/estudio/</link>
+    <link>http://localhost:1313/tags/estudio/</link>
     <description>Recent content in Estudio on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:36279/tags/estudio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/estudio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Estudio Económico Preliminar</title>
-      <link>http://localhost:36279/posts/estudio-economico-preliminar/</link>
+      <link>http://localhost:1313/posts/estudio-economico-preliminar/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:36279/posts/estudio-economico-preliminar/</guid>
+      <guid>http://localhost:1313/posts/estudio-economico-preliminar/</guid>
       <description>Presentamos el estudio económico preliminar para la instalación de un sistema de autoconsumo colectivo en el colegio El Greco de Villaverde.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36279/posts/estudio-economico-preliminar/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/estudio-economico-preliminar/featured.png" />
     </item>
     
   </channel>

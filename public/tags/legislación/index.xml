@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Legislación on </title>
-    <link>http://localhost:36279/tags/legislaci%C3%B3n/</link>
+    <link>http://localhost:1313/tags/legislaci%C3%B3n/</link>
     <description>Recent content in Legislación on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-    <lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:36279/tags/legislaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/legislaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Licitación de la cubierta del colegio El Greco</title>
-      <link>http://localhost:36279/posts/licitacion-cubierta-greco/</link>
+      <link>http://localhost:1313/posts/licitacion-cubierta-greco/</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:36279/posts/licitacion-cubierta-greco/</guid>
+      <guid>http://localhost:1313/posts/licitacion-cubierta-greco/</guid>
       <description>El ayuntamiento de Madrid ha sacado a concurso público la cesión de la cubierta del colegio El Greco para poner paneles solares y queremos presentarnos al concurso.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36279/posts/licitacion-cubierta-greco/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/licitacion-cubierta-greco/featured.png" />
     </item>
     
   </channel>

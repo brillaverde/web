@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Estatutos on </title>
-    <link>http://localhost:36279/tags/estatutos/</link>
+    <link>http://localhost:1313/tags/estatutos/</link>
     <description>Recent content in Estatutos on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-    <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:36279/tags/estatutos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/estatutos/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Aprobación de los Estatutos</title>
-      <link>http://localhost:36279/posts/aprobacion-estatutos/</link>
+      <link>http://localhost:1313/posts/aprobacion-estatutos/</link>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:36279/posts/aprobacion-estatutos/</guid>
+      <guid>http://localhost:1313/posts/aprobacion-estatutos/</guid>
       <description>La comunidad energética Brillaverde, aprueba sus estatutos, un paso fundamental para su constitución y funcionamiento.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:36279/posts/aprobacion-estatutos/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/aprobacion-estatutos/featured.png" />
     </item>
     
   </channel>
