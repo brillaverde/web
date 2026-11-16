@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-    <lastBuildDate>Mon, 05 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/eventos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/eventos/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Encuentro de comunidades energéticas en el Mercado Social de Madrid</title>
+      <link>http://localhost:1313/posts/encuentro-mercado-social/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/encuentro-mercado-social/</guid>
+      <description>El pasado 27 de octubre participamos en el encuentro de intercambio de experiencias entre comunidades energéticas que se encuentran en el Mercado Social de Madrid.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/encuentro-mercado-social/featured.jpg" />
+    </item>
     
     <item>
       <title>Un vermut para conocernos y compartir</title>
