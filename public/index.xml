@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-    <lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Presentación de las comercializadoras eléctricas Som Energía y La Corriente</title>
+      <link>http://localhost:1313/posts/presentacion-comercializadoras-sociales/</link>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/presentacion-comercializadoras-sociales/</guid>
+      <description>El próximo 26 de noviembre queremos darte a conocer dos comercializadoras de energía que piensan más en ti a la hora de emitir tu factura de la luz.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/presentacion-comercializadoras-sociales/featured.jpg" />
+    </item>
     
     <item>
       <title>Encuentro de comunidades energéticas en el Mercado Social de Madrid</title>
