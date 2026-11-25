@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medios De Comunicación on </title>
+    <link>http://localhost:1313/tags/medios-de-comunicaci%C3%B3n/</link>
+    <description>Recent content in Medios De Comunicación on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    
+    <lastBuildDate>Tue, 24 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/medios-de-comunicaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Participamos en el documental Historias Solares</title>
+      <link>http://localhost:1313/posts/presentacion-comercializadoras-sociales/</link>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/presentacion-comercializadoras-sociales/</guid>
+      <description>El pasado 23 de noviembre se presentó el documental «Historias Solares», un documental de la Alianza por el Autoconsumo en el que participó Brillaverde.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/presentacion-comercializadoras-sociales/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
